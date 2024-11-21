@@ -6,7 +6,7 @@ An example code to render synthetic images and their corresponding lesion segmen
 
 - Create and activate Python environment:
    ```
-   conda create -n ssynth python=3.9
-   conda activate ssynth
+   conda create -n oasis python=3.9
+   conda activate oasis
    pip install -r requirements.txt
    ```
